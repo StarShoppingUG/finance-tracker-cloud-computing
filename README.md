@@ -1,7 +1,17 @@
-💰 Finance Tracker
+# 💰 Finance Tracker
+## 🚀 Live Demo
+Check out the live application here: [https://finance-tracker-frontend-8c9v.onrender.com](https://finance-tracker-frontend-8c9v.onrender.com)
 
 A full-stack personal finance management application built with the MERN stack (MongoDB, Express, React, and Node.js). Track expenses, monitor spending habits, and gain insights into your financial activity through an intuitive dashboard.
 
+---
+
+🌐 Deployment
+
+- Frontend: Render (https://finance-tracker-frontend-8c9v.onrender.com)
+  
+- Backend: Render (https://finance-tracker-backend-92qk.onrender.com)
+  
 ---
 
 ✨ Features
@@ -64,13 +74,6 @@ Frontend Setup
 cd frontend
 npm install
 npm run dev
-
----
-
-🌐 Deployment
-
-- Frontend: Vercel
-- Backend: Render
 
 ---
 
