@@ -12,4 +12,4 @@ export const handleError = (msg) => {
     })
 }
 
-export const APIUrl = process.env.REACT_APP_API_URL || 'http://localhost:8080';
+export const APIUrl = 'https://supreme-computing-machine-5g544p949577377p9-8080.app.github.dev';

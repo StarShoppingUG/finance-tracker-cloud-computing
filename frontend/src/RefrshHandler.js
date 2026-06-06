@@ -14,6 +14,8 @@ function RefrshHandler({ setIsAuthenticated }) {
             ) {
                 navigate('/home', { replace: false });
             }
+        } else {
+            setIsAuthenticated(false);
         }
     }, [location, navigate, setIsAuthenticated])
 

@@ -162,9 +162,7 @@ function Login() {
                             <input type="checkbox" id="remember" name="remember" />
                             <label htmlFor="remember">Remember me</label>
                         </div>
-                        <Link to="/forgot-password" className="forgot-password">
-                            Forgot password?
-                        </Link>
+                        <span className="forgot-password">Forgot password?</span>
                     </div>
                     
                     <button 

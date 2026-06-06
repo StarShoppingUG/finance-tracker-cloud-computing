@@ -6,7 +6,7 @@ import ExpenseTable from './ExpenseTable';
 import ExpenseDetails from './ExpenseDetails';
 import ExpenseForm from './ExpenseForm';
 
-function Home() {
+function Home({ setIsAuthenticated }) {
     const [loggedInUser, setLoggedInUser] = useState('');
     const [expenses, setExpenses] = useState([]);
     const [incomeAmt, setIncomeAmt] = useState(0);
@@ -21,7 +21,8 @@ function Home() {
     const handleLogout = (e) => {
         localStorage.removeItem('token');
         localStorage.removeItem('loggedInUser');
-        handleSuccess('User Loggedout');
+        setIsAuthenticated(false);
+        handleSuccess('User Logged out');
         setTimeout(() => {
             navigate('/login');
         }, 1000)
