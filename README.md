@@ -71,8 +71,9 @@ npm run dev
 
 🌐 Deployment
 
-- Frontend: Vercel
-- Backend: Render
+- Frontend: Render (https://finance-tracker-frontend-8c9v.onrender.com)
+  
+- Backend: Render (https://finance-tracker-backend-92qk.onrender.com)
 
 ---
 
