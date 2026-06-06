@@ -1,4 +1,4 @@
-💰 Finance Tracker
+# 💰 Finance Tracker
 
 A full-stack personal finance management application built with the MERN stack (MongoDB, Express, React, and Node.js). Track expenses, monitor spending habits, and gain insights into your financial activity through an intuitive dashboard.
 
