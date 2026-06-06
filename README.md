@@ -1,5 +1,6 @@
 # 💰 Finance Tracker
-
+## 🚀 Live Demo
+Check out the live application here: [https://finance-tracker-frontend-8c9v.onrender.com](https://finance-tracker-frontend-8c9v.onrender.com)
 A full-stack personal finance management application built with the MERN stack (MongoDB, Express, React, and Node.js). Track expenses, monitor spending habits, and gain insights into your financial activity through an intuitive dashboard.
 
 ---
