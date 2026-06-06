@@ -6,6 +6,14 @@ A full-stack personal finance management application built with the MERN stack (
 
 ---
 
+🌐 Deployment
+
+- Frontend: Render (https://finance-tracker-frontend-8c9v.onrender.com)
+  
+- Backend: Render (https://finance-tracker-backend-92qk.onrender.com)
+  
+---
+
 ✨ Features
 
 - 🔐 Secure JWT Authentication
@@ -66,14 +74,6 @@ Frontend Setup
 cd frontend
 npm install
 npm run dev
-
----
-
-🌐 Deployment
-
-- Frontend: Render (https://finance-tracker-frontend-8c9v.onrender.com)
-  
-- Backend: Render (https://finance-tracker-backend-92qk.onrender.com)
 
 ---
 
